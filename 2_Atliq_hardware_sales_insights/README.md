@@ -1,8 +1,8 @@
 Atliq Hardware Company Dashboard
 
-This project features an interactive dashboard designed to provide comprehensive insights into Atliq Hardware Company's financial performance. The dashboard includes two main analysis modules:
+1.This project features an interactive dashboard designed to provide comprehensive insights into Atliq Hardware Company's financial performance. The dashboard includes two main analysis modules:
 
-Revenue Analysis: This module offers detailed visualizations of the company's revenue streams, trends, and distribution. It helps stakeholders understand revenue performance over time, identify high-performing products or regions, and assess the impact of various business strategies.
+2.Revenue Analysis: This module offers detailed visualizations of the company's revenue streams, trends, and distribution. It helps stakeholders understand revenue performance over time, identify high-performing products or regions, and assess the impact of various business strategies.
 
 Profit Analysis: This section focuses on profitability metrics, including gross profit, net profit, and profit margins. It provides a clear view of profit trends, cost structures, and profitability across different segments. The analysis helps in evaluating the efficiency of operations and identifying areas for improvement.
 
