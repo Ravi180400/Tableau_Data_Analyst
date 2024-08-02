@@ -5,6 +5,7 @@ This project features an interactive dashboard designed to provide comprehensive
 Revenue Analysis: This module offers detailed visualizations of the company's revenue streams, trends, and distribution. It helps stakeholders understand revenue performance over time, identify high-performing products or regions, and assess the impact of various business strategies.
 
 Profit Analysis: This section focuses on profitability metrics, including gross profit, net profit, and profit margins. It provides a clear view of profit trends, cost structures, and profitability across different segments. The analysis helps in evaluating the efficiency of operations and identifying areas for improvement.
+
 Data Analysis Using SQL
 Show all customer records
 
