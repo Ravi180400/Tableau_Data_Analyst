@@ -1,1 +1,4 @@
-
+The HR Analytics project began with the goal of addressing a critical business issue faced by many organizations: high employee attrition rates. Employee turnover can be costly and disruptive, impacting team morale and the organization's overall productivity. In an ever-competitive market, retaining top talent has become a key focus for HR departments worldwide.
+HR Analytics Dashboard
+The project was initiated when the HR team noticed a worrying trend of increasing attrition rates over the past year. It became essential to understand the root causes of this attrition and identify actionable insights to improve employee retention.
+To provide a comprehensive analysis of employee attrition, understand key factors contributing to turnover, and offer data-driven insights to help the HR team make informed decisions.
